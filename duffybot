@@ -1,0 +1,86 @@
+#!/bin/sh
+
+echo '
+
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,:,:,::::::,::::,:::::::::::::::::::
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,::=:,?+::,,,,:,,,,,:::::::::,:,:::::::::::::::::::
+,,,,,,,,,,,,,,,,,,,,,,,,,,:7I7Z$:Z?~+I=.?,,:,,,,,,,,::::,:::::::::::::::::::::::
+,,,,,,,,,,,,,,,,,,,,,,,,.DN?ODZO+7$O7IOIZIIDZ,,:,,,,::::,:::::::::::::::::::::::
+,,,,,,,,,,,,,,,,,,,,,,,,8N$$$8ZOOZOI8DZZZODO?7N,,,,,::::::::::::::::::::::::::::
+,,,,,,,,,,,,,,,,,,,,,,I8==8DODO?DNODD$D7OZDDO$??:,,,:,,:,:,:::::::::::::::::::::
+,,,,,,,,,,,,,,,,,,,,,MD8OD8OOOIDOO8ZO?88ZIZDZZ$OD,,:,:::::::::::::::::::::::::::
+,,,,,,,,,,,,,,,,,,,,:ONZ$O$$D$ZD8D+IOZ?DDO$ODDM7D,,,,:::,,:,::::::::::::::::::::
+,,,,,,,,,,,,,,,,,,,,$ZZMZ8Z8O$78ODZZ$Z7888+7$$INZ.,,,,::::::::::::::::::::::::::
+,,,,,,,,,,,,,,,,,,,IZ$O$ZZII7I7OOZZIII?=I$OIOOON8O,,,,,:::::::::::::::::::::::::
+,,,,,,,,,,,,,,,,,,,$OIZO8$$+$?I++?~=~===~==7+?7Z77,,,,,:::::::::::::::::::::::::
+,,,,,,,,,,,,,,,,,,78+ZZO$7I??+?+~~::::~~===??~?IZ$,,,,::::::::::::::::::::::::::
+,,,,,,,,,,,,,,,,,=DZ$IZZ7I?+===~~:::::~~====+?+7$7::,,,:::::::::::::::::::::::::
+,,,,,,,,,,,,,,,,,,O$7IZZII??+===~~~~~~~=====+~++~7?:,:,,,,::::::::::::::::::::::
+,,,,,,,,,,,,,,,,,,ZOI$OOII?=====~~:~:~~~~=+=+++II7Z,,,:,::::::::::::::::::::::::
+,,,,,,,,,,,,,,,,,,ZO7OOZI??+==:~===~~~~~~==++I==?+?:,,,:::::::::::::::::::::::::
+,,,,,,,,,,,,,,,,,,~$$O8ZZOIII+===+===+=??=++=I?++?I:,,,,:::::::::,::::::::::::::
+,,,,,,,,,,,,,,,,,,I$OO8DZI+++7Z?++?I??I$$I===+??+I,,:,,,,:::::::,:::::::::::::::
+,,,,,,,,,,,,,,,,,,,DZO$7$7?+=~7I~=~?+7$+Z+==++???=,,,,,,:,,:::::::::::::::::::::
+,,,,,,,,,,,,,,,,,,,8NZ7I?==+==$+~=~===~~~=====+++:,,,,,,:,::::::::::::::::::::::
+,,,,,,,,,,,,,,,,,,,ZDZZI+===+7$+~==~~~~~~~==~:=+~:,,,,:,,,,:::::::::::::::::::::
+,,,,,,,,,,,,,,,,,,,,8N8Z?+==?O$+==+~~=~=~===~:==,,,,,,,,,,,::,::::::::::::::::::
+,,,,,,,,,,,,,,,,,,,,+D8ZI?++O$7=:==+?=~==++==:~~,,,,,,:,,,::::::::::::::::::::::
+,,,,,,,,,,,,,,,,,,,,,,OZ$??7ZD8I+7?==I++?++=~IO=,,,,,,,,,,,::,::::::::::::::::::
+,,,,,,,,,,,,,,,,,,,,,,?Z7+?Z$7II?===++?++++=+~=,,,,,,,,,,,,,::::::::::::::::::::
+,,,,,,,,,,,,,,,,,,,,,,,O8==IOD8$$7IO=?+=+=+?+~,,,,,,,,,,,,,,,:::::::::::::::::::
+,,,,,,,,,,,,,,,,,,,,,,,,OI+?ZI??==~====+==?+=~Z,,,,,,,,,:,,,,,::::::::::::::::::
+,,,,,,,,,,,,,,,,,,,,,,,,,87777I??++===++=+++=+?~,,,,,,,,,,,,,:::::::::::::::::::
+,,,,,,,,,,,,,,,,,,,,,,,,,,O7+?+===~=++I+?++=+===N:,,,,,,,,,,,,,,,,::::::::::::::
+,,,,,,,,,,,,,,,,,,,,,,,,,,,87?+=~===+II++=+:~~==DD:,,,,,,,,,,:,,,,::::::::::::::
+,,,,,,,,,,,,,,,,,,,,,,,,,,,OD$?????$7?++=:~:~~=8DND$,,,,,,,,,,:,,,::::::::::::::
+,,,,,,,,,,,,,,,,,,,,,,,,,,NMDDOZZ$$?=++~~~~~~~NNNNNNN:,,,,,,,,,,,,::::::::::::::
+,,,,,,,,,,,,,,,,,,,,,,,,:.OM88Z7?II+?~:~~~~~~NNNNNNNNNN.:,,,,,,,:,,:,:::::::::::
+,,,,,,,,,,,,,,,,,,,,,,,MNZ7MN$OZ7ZZ~~~~~~~~~NNNNNNNNNNNNDD,,,,,:,,,:::::::::::::
+,,,,,,,,,,,,,,,,,,,,NMMMMO?OD$I7O~~~~~~~~~~NNNNNNNNNNNNNNNNND:,,:,,,::::::::::::
+,,,,,,,,,,,,,,,,,ONMMMNNDIMI8N??O:~~~:~~~~NNDNNNNNNNNNNNNNNNND8.,,,,::::::::::::
+,,,,,,,,,,,,,.NNMMMMMMMM?NNM8$=+?ON~~~~~~DDDNNNNNNNNNNNNNNNNNNNNDN,:::::::::::::
+,,,,,,,,,,,DMMNMMMMMMMM~Z$8DN=+==7OM~~~~DNNNDNNNNMNNNNNNNNNNNNNNNNNDD,,:::::::::
+,,,,,,,,,,MMMMMNMMMMMMM7II77N+?+==IZN~=NDDNDNNNNNNNNNNNNNNNNNNNNNNNNNNDD::::::::
+,,,,,,,,,,NMMNMMMNNNMN?III7Z~==~=~+?=7NNDNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN8:::::::
+,,,,,,,,,OMMMMMMMNMMMNIII7O~=~=~~++=?NNDNNNNNNNNNNNNNNNNNNNNNNNDNDNDDDNNN,::::::
+,,,,,,,,,NMMMMNMMMMMN7II7ZN~~~=~+==+8DNNNNNNNNNNNNNNNNNNNNNNNMDDNNNNND88DD::::::
+,,,,,,,,,NMMMMMMNNMMNIII7O~=++====?ONNNDNNNNNNNNNNNNNNNNNNNNNNNNNDNNNDND8D::::::
+,,,,,,,,,NMMMMMMNMMMDI?I7+~~++==++ZNNNNNNNNNNNNNNNNNNNNNNNNNNNNDNNNNDNODDO::::::
+,,,,,,,,:NMMMMMMMMMNII?I$=~+=~=++$NNDDNNNNNNNNNNNNNNNNNNNNDNNNNNNNDNNNN88D::::::
+,,,,,,,,,MMMMMMNMMMN????O~==7+=+$NNNNNNNNNNNNNNNNNNNNNNNNDDNNNNDNNDNNNNN88::::::
+,,,,,,,,.MMMMMMMNMMM??+I==+=++?7NNDNNNNNNNNNNNNNNNNNNNNNNDDNNNNNNDNNDNDNN8::::::
+,,,,:,,,.NMMMMMNMMN++++8~==?=+INNDNNNNNNNNNNNNNNNNNNNNNNNDNNNNNNNNNNDNN8DDO:::::
+,,:,,,,,:MMMMMMMMMN+++?==++=+I8NDNNDNNNNNNNNNNNNNNNDNNDNNNNNNNNNNNDNNNNN888:::::
+,,,,,,,,:NMMMMMMMMN?++7===7+?ZNNNNNNNNDNNNNNNNDNDNNDNNDNNNNNNNNNDNNNNNNNNO8:::::
+,::,:,,,:MMMMMMMMMN+++=IO+~?$NNNNNNNNNNNNNNNNNDNDNNNNDNDNMNNNNNNNNNNNNNNNN8I::::
+,::::,,,~MMMMMMMMMN??++=+7?$NNDNNNNNNNNNNNNNNNNNNNNNNNNDNNNNNNNDNNNDNNNNNNND::::
+::::::::$MMMMMMMMNO+=+++++I8NNNNNNNNNNNNNNDNNNNNNNNNNNDNNNNNNDNNNNNNNNNNNNN?::::
+::::::::NMMMMMMMMNI?==++??ONNNNNNNNNNNNNNNNNNDNNDNNDNNNNMNNNNNNNNNNDNNNNNDNN::::
+::::::::NNMMMMMMMN?+==+?I$NNNNNNNMNNNNNDNNNNNNNDDNNNNNNNMNNNNNNNNNNNNNDNND8N,:::
+:::::::8MNMMMMNMMN8==+??7NNNNNNNNNNNNNNNNNNNNNNNNNNDNNNMMNNNNNNNNNNNNNNNNN888:::
+:::::::MMNMMMMMMMNZ=++IIONNNNNNNNNNNNNNNNNNNDNNDDNNNNNNMMNNNNNNNNNNNNNNNNNN88:::
+:::::::MMNMMMMMMMNN=8?I$MNNNNNNNNNNNNNNNNNDNNNDNNNNNNNNMMNNNNNNNNDNNNNNNNNND8:::
+::::::.MMMMMMMMNNNM+?IZ8NNNNNNNNNNNNNNNNNNNNNNNNNNDNNNNMMNNNNNNNNDNNNNNNNNNN8:::
+::::::NMMNMMMMMNMNN?IIONNNNNNNNNNNNNNNNNNNNDNNNNNNNNNNNMMMNNNNNNNNNNDNDNNNND8,::
+::::::MMMNMMMMMMMND?7NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMNNNNNNNNNNNNNNNNNDD:::
+::::::MMMNMMMMMMNNNI$8NNNNNNNNNNNNNNNNNNNNNNDNDNNNNNNNNMMNNNNNNNNNNNNNNNNNNNDI::
+::::::MMMNMMMMMMMNDIOMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMNNNNNNNNNNNNDNNNNNDD::
+::::MMMMMMMMMMMMNNNODNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMNNNNNNNNNNNNNNNNNNDD::
+::::MMMMMMMMMNMMMNN8MNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMNNNNNDNNNNNNNNNNN8::
+:::DNMMMMMMMMMMMMNNMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMNNNNNNNNNNNNNNNND8::
+NNDDNNNMMMMMMNNMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNDNNNNNNNNMMMMNNNNNNNNDNNNNNNNN8::
+DDNNNNNMMMMMMNNMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMNNNNNNNNNNNNNN8::
+
+
+    ____        ________      ____  ____  ______
+   / __ \__  __/ __/ __/_  __/ __ )/ __ \/_  __/
+  / / / / / / / /_/ /_/ / / / __  / / / / / /   
+ / /_/ / /_/ / __/ __/ /_/ / /_/ / /_/ / / /    
+/_____/\__,_/_/ /_/  \__, /_____/\____/ /_/     
+                    /____/                      
+'
+
+
+
+git log --pretty=format:"%x09%ad%x09%s" --date=short --since $1 --until $2 | awk '!x[$1$3]++' | cut -d']' -f1 | sed 's/$/]/' | sed 's/[,|&]/ /g' | perl -ne '$H{$_}++ or print' | sed 's/[,|&]/ /g' | tr -s ' ' |  awk '{$2=""; print}' |grep -o '\[.*\]' | sed 's/\[//g' | sed 's/\]//g' | perl -lane 'print join " ", sort @F'|sed 's/[ \t]*$//' | sort | uniq -c | sort
+
